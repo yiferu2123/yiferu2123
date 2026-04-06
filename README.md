@@ -30,25 +30,6 @@
 - 🔭 Currently working on **Soil Erosion Detection** using satellite imagery & deep learning
 - 🌱 Exploring **Transformer-based NLP** for low-resource Amharic language
 - 💡 Interested in **AI for Social Good** – hate speech detection, environmental monitoring, agricultural forecasting
-- 📫 Reach me: **yiferumekonne@gmail.com**
-- 🌐 Portfolio: **[yiferu2123.github.io](https://yiferu2123.github.io)**
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-|---|---|---|
-| [📈 ML Sales Forecasting](https://github.com/yiferu2123/ml-sales-forecasting) | Multi-step time-series sales prediction with ensemble models | Python, XGBoost, LightGBM |
-| [🛡️ Amharic Hate Speech Bot](https://github.com/yiferu2123/amharic-hate-speech-bot) | Real-time hate speech detection & moderation for Amharic social media | PyTorch, mBERT, Telegram API |
-| [🌍 Soil Erosion Detection](https://github.com/yiferu2123/soil-erosion-detection) | Satellite imagery segmentation to map erosion in North Shoa Woredas | U-Net, Sentinel-2, QGIS |
-| [⚙️ Big Data ETL Pipeline](https://github.com/yiferu2123/big-data-etl-pipeline) | End-to-end ETL pipeline with distributed processing & warehousing | Apache Spark, Hadoop, SQL |
-| [🔋 hydropower-forcasting](https://github.com/yiferu2123/hydropower-forcasting) | deep learning(gru and lstm) and machine learning (xgboost) based forcasting of dam water level and energy generated |
-
-
-> 🔗 **[View Full Portfolio →](https://yiferu2123.github.io)**
-
----
 
 ## 🛠️ Tech Stack
 
@@ -70,6 +51,26 @@
 </div>
 
 ---
+- 📫 Reach me: **yiferumekonne@gmail.com**
+- 🌐 Portfolio: **[yiferu2123.github.io](https://yiferu2123.github.io)**
+
+---
+
+## 🚀 Projects
+
+| Project | Description | Tech Stack |
+|---|---|---|
+| [📈 ML Sales Forecasting](https://github.com/yiferu2123/ml-sales-forecasting) | Multi-step time-series sales prediction with ensemble models | Python, XGBoost, LightGBM |
+| [🛡️ Amharic Hate Speech Bot](https://github.com/yiferu2123/amharic-hate-speech-bot) | Real-time hate speech detection & moderation for Amharic social media | PyTorch, mBERT, Telegram API |
+| [🌍 Soil Erosion Detection](https://github.com/yiferu2123/soil-erosion-detection) | Satellite imagery segmentation to map erosion in North Shoa Woredas | U-Net, Sentinel-2, QGIS |
+| [⚙️ Big Data ETL Pipeline](https://github.com/yiferu2123/big-data-etl-pipeline) | End-to-end ETL pipeline with distributed processing & warehousing | Apache Spark, Hadoop, SQL |
+| [🔋 hydropower-forcasting](https://github.com/yiferu2123/hydropower-forcasting) | deep learning(gru and lstm) and machine learning (xgboost) based forcasting of dam water level and energy generated |
+
+
+> 🔗 **[View Full Portfolio →](https://yiferu2123.github.io)**
+
+---
+
 
 ## 📊 GitHub Stats
 
