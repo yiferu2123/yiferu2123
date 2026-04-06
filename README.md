@@ -31,8 +31,6 @@
 - 🌱 Exploring **Transformer-based NLP** for low-resource Amharic language
 - 💡 Interested in **AI for Social Good** – hate speech detection, environmental monitoring, agricultural forecasting
 
-## 🛠️ Tech Stack
-
 
 - 📫 Reach me: **yiferumekonne@gmail.com**
 - 🌐 Portfolio: **[yiferu2123.github.io](https://yiferu2123.github.io)**
@@ -53,6 +51,7 @@
 > 🔗 **[View Full Portfolio →](https://yiferu2123.github.io)**
 
 ---
+## 🛠️ Tech Stack
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
