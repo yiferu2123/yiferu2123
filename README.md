@@ -43,7 +43,7 @@
 | [🛡️ Amharic Hate Speech Bot](https://github.com/yiferu2123/amharic-hate-speech-bot) | Real-time hate speech detection & moderation for Amharic social media | PyTorch, mBERT, Telegram API |
 | [🌍 Soil Erosion Detection](https://github.com/yiferu2123/soil-erosion-detection) | Satellite imagery segmentation to map erosion in North Shoa Woredas | U-Net, Sentinel-2, QGIS |
 | [⚙️ Big Data ETL Pipeline](https://github.com/yiferu2123/big-data-etl-pipeline) | End-to-end ETL pipeline with distributed processing & warehousing | Apache Spark, Hadoop, SQL |
-|[🔋📊hydropower-forcasting]|(https://github.com/yiferu2123/hydropower-forcasting) | deep learning(gru and lstm) and machine learning (xgboost) based forcasting of dam water level and energy generated |
+| [🔋 hydropower-forcasting](https://github.com/yiferu2123/hydropower-forcasting) | deep learning(gru and lstm) and machine learning (xgboost) based forcasting of dam water level and energy generated |
 
 
 > 🔗 **[View Full Portfolio →](https://yiferu2123.github.io)**
